@@ -1,1 +1,2 @@
-# cw-2007.github.io
+# 2007 Combinatorics Workshop
+https://cw2007.combinatorics.kr
